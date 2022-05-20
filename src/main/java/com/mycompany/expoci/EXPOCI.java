@@ -13,10 +13,7 @@ package com.mycompany.expoci;
 public class EXPOCI {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-
-
-  
+          
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce un radio");
         double radio=sc.nextDouble();
