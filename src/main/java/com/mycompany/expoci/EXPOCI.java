@@ -13,11 +13,6 @@ public class EXPOCI {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-    //AQUI VA EL CODIGO 
-    //HASD
-    //ADSAD
-    //aDSAtrtrtrtrtrtrtrtrtrtr
-    //fd//GFGGfgfgf
-    //comfirma sale algo 
+    
     }
 }
